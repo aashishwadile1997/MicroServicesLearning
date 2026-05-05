@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using BuildingBlocks.CQRS;
+global using Microsoft.EntityFrameworkCore;
+global using Ordering.Application.Data;
+global using Ordering.Domain.ValueObjects;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global  using System.Threading.Tasks;
+global using Ordering.Application.Extensions;
